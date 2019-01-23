@@ -2,9 +2,9 @@
 
 ### Installing
 
-A guide to setup Fast Ai .7 for the 2018(fast ai course) 
+A guide to setup Fast Ai .7 for the 2018 Fast Ai course
 
-commands to run in terminal
+commands to run in terminal:
 
 username = your username
 *need to use the uva vpn if off grounds
@@ -36,6 +36,13 @@ ssh into server
 ```
 ssh username@rivanna1.hpc.virginia.edu
 ```
+
+move to fastai and start environment
+```
+cd fastai
+source activate fastai
+```
+
 start jupyter notebook
 ```
 jupyter notebook
