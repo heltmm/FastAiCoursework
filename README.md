@@ -27,8 +27,6 @@ conda activate fastai
 or 
 source activate fastai
 ```
-note might need to add bash: echo ". /home/username/anaconda2/etc/profile.d/conda.sh" >> ~/.bashrc
-should be prompted
 
 Installation is complete!
 
